@@ -1,4 +1,4 @@
-###CanvasHelper-1.2
+# CanvasHelper-1.2
 
 This application allows for the import of groups and group assignments between courses in the Canvas LMS. Make sure to generate a user key in your Canvas user settings, and log into your institution's server (ex. "https://asu.instructure.com") in the Configure section of this application.
 
